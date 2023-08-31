@@ -1,3 +1,2 @@
-Hola soy el archivo de prueba
-Buenas como va?
+Buenas soy el archivo de prueba, desde rama
 prueba desde Rama
